@@ -1,0 +1,26 @@
+{
+    "M4": {
+        "Excluded2017_Excluded2019": "NH (1 state)",
+        "Excluded2017_Included2019": "",
+        "Included2017_Excluded2019": "",
+        "Included2017_Included2019": "AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, PR (51 states)"
+    },
+    "M8": {
+        "Excluded2017_Excluded2019": "AZ, DC, FL, GA, LA, MD, MO, NH, NJ, NM, NY, OH, TN, TX, VA (15 states)",
+        "Excluded2017_Included2019": "CO, IL, NV, RI, UT (5 states)",
+        "Included2017_Excluded2019": "DE, NC (2 states)",
+        "Included2017_Included2019": "AL, AK, AR, CA, CT, HI, ID, IN, IA, KS, KY, ME, MA, MI, MN, MS, MT, NE, ND, OK, OR, PA, SC, SD, VT, WA, WV, WI, WY, PR (30 states)"
+    },
+    "R4": {
+        "Excluded2017_Excluded2019": "NH, PR (2 states)",
+        "Excluded2017_Included2019": "",
+        "Included2017_Excluded2019": "WV (1 state)",
+        "Included2017_Included2019": "AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WI, WY (49 states)"
+    },
+    "R8": {
+        "Excluded2017_Excluded2019": "NH, TX, PR (3 states)",
+        "Excluded2017_Included2019": "NV (1 state)",
+        "Included2017_Excluded2019": "DE, GA, WV (3 states)",
+        "Included2017_Included2019": "AL, AK, AZ, AR, CA, CO, CT, DC, FL, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, UT, VT, VA, WA, WI, WY (45 states)"
+    }
+}

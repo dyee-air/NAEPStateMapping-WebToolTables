@@ -1,0 +1,26 @@
+{
+    "M4": {
+        "ExcludedALT_ExcludedSTD": "NH (1 state)",
+        "ExcludedALT_IncludedSTD": "CA, ID, IA, KY, ME, SD, UT, VT (8 states)",
+        "IncludedALT_ExcludedSTD": "",
+        "IncludedALT_IncludedSTD": "AL, AK, AZ, AR, CO, CT, DE, DC, FL, GA, HI, IL, IN, KS, LA, MD, MA, MI, MN, MS, MO, MT, NE, NV, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, TN, TX, VA, WA, WV, WI, WY, PR (43 states)"
+    },
+    "M8": {
+        "ExcludedALT_ExcludedSTD": "NH (1 state)",
+        "ExcludedALT_IncludedSTD": "CA, ID, IA, KY, ME, SD, UT, VT (8 states)",
+        "IncludedALT_ExcludedSTD": "AZ, DE, DC, FL, GA, LA, MD, MO, NJ, NM, NY, NC, OH, TN, TX, VA (16 states)",
+        "IncludedALT_IncludedSTD": "AL, AK, AR, CO, CT, HI, IL, IN, KS, MA, MI, MN, MS, MT, NE, NV, ND, OK, OR, PA, RI, SC, WA, WV, WI, WY, PR (27 states)"
+    },
+    "R4": {
+        "ExcludedALT_ExcludedSTD": "NH, PR (2 states)",
+        "ExcludedALT_IncludedSTD": "CA, ID, IA, KY, ME, SD, UT, VT (8 states)",
+        "IncludedALT_ExcludedSTD": "WV (1 state)",
+        "IncludedALT_IncludedSTD": "AL, AK, AZ, AR, CO, CT, DE, DC, FL, GA, HI, IL, IN, KS, LA, MD, MA, MI, MN, MS, MO, MT, NE, NV, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, TN, TX, VA, WA, WI, WY (41 states)"
+    },
+    "R8": {
+        "ExcludedALT_ExcludedSTD": "NH, PR (2 states)",
+        "ExcludedALT_IncludedSTD": "CA, ID, IA, KY, ME, SD, UT, VT (8 states)",
+        "IncludedALT_ExcludedSTD": "DE, GA, TX, WV (4 states)",
+        "IncludedALT_IncludedSTD": "AL, AK, AZ, AR, CO, CT, DC, FL, HI, IL, IN, KS, LA, MD, MA, MI, MN, MS, MO, MT, NE, NV, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, TN, VA, WA, WI, WY (38 states)"
+    }
+}

@@ -1,0 +1,53 @@
+,fips,state_abbr,state,M4_2017,R4_2017,M8_2017,R8_2017,M4_2019,R4_2019,M8_2019,R8_2019
+0,1,AL,Alabama,True,True,True,True,True,True,True,True
+1,2,AK,Alaska,True,True,True,True,True,True,True,True
+2,4,AZ,Arizona,True,True,False,True,True,True,False,True
+3,5,AR,Arkansas,True,True,True,True,True,True,True,True
+4,6,CA,California,True,True,True,True,True,True,True,True
+5,8,CO,Colorado,True,True,False,True,True,True,True,True
+6,9,CT,Connecticut,True,True,True,True,True,True,True,True
+7,10,DE,Delaware,True,True,True,True,True,True,False,False
+8,11,DC,District of Columbia,True,True,False,True,True,True,False,True
+9,12,FL,Florida,True,True,False,True,True,True,False,True
+10,13,GA,Georgia,True,True,False,True,True,True,False,False
+11,15,HI,Hawaii,True,True,True,True,True,True,True,True
+12,16,ID,Idaho,True,True,True,True,True,True,True,True
+13,17,IL,Illinois,True,True,False,True,True,True,True,True
+14,18,IN,Indiana,True,True,True,True,True,True,True,True
+15,19,IA,Iowa,True,True,True,True,True,True,True,True
+16,20,KS,Kansas,True,True,True,True,True,True,True,True
+17,21,KY,Kentucky,True,True,True,True,True,True,True,True
+18,22,LA,Louisiana,True,True,False,True,True,True,False,True
+19,23,ME,Maine,True,True,True,True,True,True,True,True
+20,24,MD,Maryland,True,True,False,True,True,True,False,True
+21,25,MA,Massachusetts,True,True,True,True,True,True,True,True
+22,26,MI,Michigan,True,True,True,True,True,True,True,True
+23,27,MN,Minnesota,True,True,True,True,True,True,True,True
+24,28,MS,Mississippi,True,True,True,True,True,True,True,True
+25,29,MO,Missouri,True,True,False,True,True,True,False,True
+26,30,MT,Montana,True,True,True,True,True,True,True,True
+27,31,NE,Nebraska,True,True,True,True,True,True,True,True
+28,32,NV,Nevada,True,True,False,False,True,True,True,True
+29,33,NH,New Hampshire,False,False,False,False,False,False,False,False
+30,34,NJ,New Jersey,True,True,False,True,True,True,False,True
+31,35,NM,New Mexico,True,True,False,True,True,True,False,True
+32,36,NY,New York,True,True,False,True,True,True,False,True
+33,37,NC,North Carolina,True,True,True,True,True,True,False,True
+34,38,ND,North Dakota,True,True,True,True,True,True,True,True
+35,39,OH,Ohio,True,True,False,True,True,True,False,True
+36,40,OK,Oklahoma,True,True,True,True,True,True,True,True
+37,41,OR,Oregon,True,True,True,True,True,True,True,True
+38,42,PA,Pennsylvania,True,True,True,True,True,True,True,True
+39,44,RI,Rhode Island,True,True,False,True,True,True,True,True
+40,45,SC,South Carolina,True,True,True,True,True,True,True,True
+41,46,SD,South Dakota,True,True,True,True,True,True,True,True
+42,47,TN,Tennessee,True,True,False,True,True,True,False,True
+43,48,TX,Texas,True,True,False,False,True,True,False,False
+44,49,UT,Utah,True,True,False,True,True,True,True,True
+45,50,VT,Vermont,True,True,True,True,True,True,True,True
+46,51,VA,Virginia,True,True,False,True,True,True,False,True
+47,53,WA,Washington,True,True,True,True,True,True,True,True
+48,54,WV,West Virginia,True,True,True,True,True,False,True,False
+49,55,WI,Wisconsin,True,True,True,True,True,True,True,True
+50,56,WY,Wyoming,True,True,True,True,True,True,True,True
+255,72,PR,Puerto Rico,True,False,True,False,True,False,True,False
